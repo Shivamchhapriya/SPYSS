@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/SPYSS/static/css/main.1520f44b.css",
+    "main.js": "/SPYSS/static/js/main.34f2822f.js",
+    "index.html": "/SPYSS/index.html",
+    "main.1520f44b.css.map": "/SPYSS/static/css/main.1520f44b.css.map",
+    "main.34f2822f.js.map": "/SPYSS/static/js/main.34f2822f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1520f44b.css",
+    "static/js/main.34f2822f.js"
+  ]
+}
