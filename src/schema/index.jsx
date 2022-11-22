@@ -19,7 +19,7 @@ const signupschemas = Yup.object().shape({
   DropValaya:Yup.string().required("Please enter your Valaya"),
 
   dropcity:Yup.string().required("Please enter your District Name"),
-  dropcitydata:Yup.array().object({}).required("Please enter your District Name"),
+  dropcitydata:Yup.array().required("Please enter your District Name"),
 
 
   upaValayacity:Yup.string().required("Please enter your UPA Valaya District"),
